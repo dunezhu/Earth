@@ -59,7 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\orbit.cs" />
+    <Compile Include="Assets\Scripts\Orbiter.cs" />
     <Compile Include="Assets\Scripts\move.cs" />
+    <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SkySeries Freebie\Hdri setup.txt" />

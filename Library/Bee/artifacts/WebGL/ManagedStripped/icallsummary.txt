@@ -45,6 +45,8 @@ UnityEngine.Experimental.Rendering.ScriptableRuntimeReflectionSystemSettings::Sc
 UnityEngine.GameObject::Internal_CreateGameObject
 UnityEngine.GameObject::SendMessage
 UnityEngine.GameObject::GetComponent
+UnityEngine.GameObject::FindGameObjectsWithTag
+UnityEngine.GameObject::get_transform
 UnityEngine.Gradient::Internal_Equals
 UnityEngine.Gradient::Init
 UnityEngine.Gradient::Cleanup
@@ -134,6 +136,10 @@ UnityEngine.RenderTexture::SetSRGBReadWrite
 UnityEngine.RenderTexture::set_depthStencilFormat
 UnityEngine.RenderTexture::set_height
 UnityEngine.RenderTexture::set_width
+UnityEngine.Rigidbody::get_mass
+UnityEngine.Rigidbody::AddForce_Injected
+UnityEngine.Rigidbody::get_velocity_Injected
+UnityEngine.Rigidbody::set_velocity_Injected
 UnityEngine.Screen::get_height
 UnityEngine.Screen::get_width
 UnityEngine.ScriptableObject::CreateScriptableObject
@@ -148,6 +154,9 @@ UnityEngine.Texture2DArray::Internal_CreateImpl
 UnityEngine.Texture3D::Internal_CreateImpl
 UnityEngine.Time::get_deltaTime
 UnityEngine.Transform::get_childCount
+UnityEngine.Transform::Internal_LookAt_Injected
+UnityEngine.Transform::RotateAroundInternal_Injected
+UnityEngine.Transform::TransformDirection_Injected
 UnityEngine.Transform::get_localRotation_Injected
 UnityEngine.Transform::get_position_Injected
 UnityEngine.Transform::get_rotation_Injected
@@ -155,4 +164,5 @@ UnityEngine.Transform::set_localRotation_Injected
 UnityEngine.Transform::set_position_Injected
 UnityEngine.Transform::set_rotation_Injected
 UnityEngine.Transform::GetChild
+UnityEngine.Transform::GetParent
 UnityEngine.U2D.SpriteAtlasManager::Register
