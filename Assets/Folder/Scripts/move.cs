@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class move : MonoBehaviour
 {
-    [SerializeField] float movementSpeed = 5f;
+    [SerializeField] float movementSpeed = 10f;
     [SerializeField] float turnSpeed = 30f;
 
     Transform myT;
@@ -31,7 +31,6 @@ public class move : MonoBehaviour
 
     void Thrust()
     {
-        if (Input.GetAxis("Vertical") > 0)
-            myT.position += myT.forward * movementSpeed * Time.deltaTime * Input.GetAxis("Vertical");
+        myT.position += myT.forward * movementSpeed * Time.deltaTime;
     }
 }
