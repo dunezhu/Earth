@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Orbiter
+    - SpeedController
     - move
     - orbit
     Unity.Play.Publisher.Editor.dll:
@@ -76,6 +77,13 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
   serializedClasses:
     Unity.RenderPipelines.Core.Runtime:
     - UnityEngine.Rendering.BoolParameter
@@ -111,6 +119,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Navigation
     - UnityEngine.UI.ScrollRect/ScrollRectEvent
     - UnityEngine.UI.Scrollbar/ScrollEvent
+    - UnityEngine.UI.Slider/SliderEvent
     - UnityEngine.UI.SpriteState
     - UnityEngine.UI.Toggle/ToggleEvent
   methodsToPreserve:
@@ -208,6 +217,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3052}
     - Class: 114
+      Script: {instanceID: 3376}
+    - Class: 114
       Script: {instanceID: 3536}
     - Class: 114
       Script: {instanceID: 3686}
@@ -240,6 +251,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6994}
     - Class: 114
+      Script: {instanceID: 7086}
+    - Class: 114
       Script: {instanceID: 7096}
     - Class: 114
       Script: {instanceID: 7120}
@@ -266,6 +279,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 8726}
     - Class: 114
+      Script: {instanceID: 8830}
+    - Class: 114
       Script: {instanceID: 8846}
     - Class: 114
       Script: {instanceID: 8992}
@@ -291,6 +306,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11062}
     - Class: 114
       Script: {instanceID: 11240}
+    - Class: 114
+      Script: {instanceID: 27666}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1356,7 +1373,7 @@ ScriptsOnlyBuild:
     className: DebugUIHandlerCanvas
   - hash:
       serializedVersion: 2
-      Hash: e3aeed3542195ebc67a679d5e8a33397
+      Hash: 35239a127f113f9469470a3e53deacdb
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: move
@@ -1672,6 +1689,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 205a63821dbc6b07422bd6f06098b131
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SpeedController
   platform: 20
   scenePathNames:
   - Assets/Scenes/New Scene/New Scene.unity

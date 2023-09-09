@@ -12025,7 +12025,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DebugUIHandlerField_1_SetWidget_m287D7ED
 		RuntimeObject* L_3 = __this->___m_Field;
 		String_t* L_4;
 		L_4 = Widget_get_displayName_m1E7836A53BF88619C4815EA70F9243319567F0F4_inline((Widget_tE8D6AF1D7525CC84E8F2C3B73162016736A6A2FF*)L_3, NULL);
-		VirtualActionInvoker1< String_t* >::Invoke(73, L_2, L_4);
+		VirtualActionInvoker1< String_t* >::Invoke(75, L_2, L_4);
 		VirtualActionInvoker0::Invoke(13, __this);
 		return;
 	}
@@ -12171,7 +12171,7 @@ IL_001f:
 	{
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_5 = __this->___valueLabel;
 		String_t* L_6 = ___0_text;
-		VirtualActionInvoker1< String_t* >::Invoke(73, L_5, L_6);
+		VirtualActionInvoker1< String_t* >::Invoke(75, L_5, L_6);
 		return;
 	}
 }

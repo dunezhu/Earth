@@ -2,12 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+using UnityEngine.UI;
 public class move : MonoBehaviour
 {
-    [SerializeField] float movementSpeed = 10f;
+    public Slider mySlider;
+
+    [SerializeField] float movementSpeed = 100f;
     [SerializeField] float turnSpeed = 30f;
 
     Transform myT;
+
+    float sliderValue;
 
     void Awake()
     {
@@ -31,6 +36,15 @@ public class move : MonoBehaviour
 
     void Thrust()
     {
-        myT.position += myT.forward * movementSpeed * Time.deltaTime;
+        myT.position += myT.forward * Time.deltaTime * (movementSpeed * sliderValue);
+
+        mySlider.onValueChanged.AddListener(delegate { ValueChangeCheck(); });
+
+    }
+    public void ValueChangeCheck()
+    {
+        Debug.Log(mySlider.value);
+
+        sliderValue = mySlider.value;
     }
 }

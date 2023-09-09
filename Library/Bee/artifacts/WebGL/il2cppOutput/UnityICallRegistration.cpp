@@ -2170,6 +2170,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Material_GetFirstPropertyNameIdByAttribute();
 		Register_UnityEngine_Material_GetFirstPropertyNameIdByAttribute();
 
+		//System.Int32 UnityEngine.Material::get_rawRenderQueue()
+		void Register_UnityEngine_Material_get_rawRenderQueue();
+		Register_UnityEngine_Material_get_rawRenderQueue();
+
 		//System.Single UnityEngine.Material::GetFloatImpl(System.Int32)
 		void Register_UnityEngine_Material_GetFloatImpl();
 		Register_UnityEngine_Material_GetFloatImpl();

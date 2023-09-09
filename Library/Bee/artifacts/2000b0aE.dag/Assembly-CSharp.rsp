@@ -352,6 +352,7 @@
 "Assets/Folder/Scripts/move.cs"
 "Assets/Folder/Scripts/orbit.cs"
 "Assets/Folder/Scripts/Orbiter.cs"
+"Assets/Folder/Scripts/SpeedController.cs"
 "Assets/Planet Earth Free/SpinFree.cs"
 -langversion:9.0
 
