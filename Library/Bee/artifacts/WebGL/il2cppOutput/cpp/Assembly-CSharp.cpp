@@ -832,7 +832,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void orbit_Update_mAAB80D50C49A8404BC1E449E09
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void orbit__ctor_mDE72EDF0EEB0520E8479DA2E1F0DAB4DE42E3DB9 (orbit_tF16400C6403DA258EEFD8314FF425114C6F5F0B8* __this, const RuntimeMethod* method) 
 {
 	{
-		__this->___rotationSpeed = (1.0f);
+		__this->___rotationSpeed = (10.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
 	}
