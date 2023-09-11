@@ -785,7 +785,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mySlider: {fileID: 1840399710}
-  movementSpeed: 50
+  movementSpeed: 500
   turnSpeed: 30
 --- !u!1 &580423435
 GameObject:
@@ -1106,7 +1106,7 @@ Transform:
   m_GameObject: {fileID: 666038551}
   m_LocalRotation: {x: -0, y: -0, z: 0.23115358, w: 0.9729173}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 28.200003, y: 0.01, z: 28.2}
+  m_LocalScale: {x: 28.2, y: 0.01, z: 28.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 632576598}
@@ -1509,7 +1509,7 @@ Transform:
   m_GameObject: {fileID: 936852066}
   m_LocalRotation: {x: 0, y: 0, z: 0.00008726013, w: 1}
   m_LocalPosition: {x: 579, y: 0, z: 0}
-  m_LocalScale: {x: 0.4879, y: 0.4879, z: 0.4879}
+  m_LocalScale: {x: 0.4789, y: 0.4789, z: 0.4789}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2290,7 +2290,7 @@ Transform:
   m_GameObject: {fileID: 1336181054}
   m_LocalRotation: {x: -0, y: -0, z: 0.23115358, w: 0.9729173}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 12.0536, y: 12.053602, z: 12.053599}
+  m_LocalScale: {x: 12.0536, y: 12.0536, z: 12.0536}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 632576598}
