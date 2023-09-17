@@ -60,13 +60,11 @@
   <ItemGroup>
     <Compile Include="Assets\Folder\Scripts\SpeedController.cs" />
     <Compile Include="Assets\Folder\Scripts\orbit.cs" />
-    <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
     <Compile Include="Assets\Folder\Scripts\move.cs" />
     <Compile Include="Assets\Folder\Scripts\Orbiter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Folder\Real Stars Skybox\Demo Scene\Documentation.txt" />
-    <None Include="Assets\Folder\SkySeries Freebie\Hdri setup.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

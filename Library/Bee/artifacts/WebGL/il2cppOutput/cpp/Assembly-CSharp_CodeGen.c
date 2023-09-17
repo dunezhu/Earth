@@ -32,11 +32,9 @@ extern void SpeedController_Start_m1AA7FAFBE79B7B8CB404923E3926AFC43617B7B8 (voi
 extern void SpeedController_ValueChangeCheck_mACF07D6425C58320836C11CA9F46670103A01ABB (void);
 extern void SpeedController__ctor_m26FD20BEE03745E911286CD48EEB09422D533AA4 (void);
 extern void SpeedController_U3CStartU3Eb__1_0_m49B23E63136AA6172A0DF9DDD353B84CB727622D (void);
-extern void SpinFree_Update_m3301EFBD1B7DC6F06D34CCA773AFE993A7848A65 (void);
-extern void SpinFree__ctor_m2D12C8C18B2F2680D0C70305FD030A1A68E0CBA5 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[24] = 
+static Il2CppMethodPointer s_methodPointers[22] = 
 {
 	move_Awake_m47A83B666BC5C239D923115C94CE43841E5D7290,
 	move_Update_m10610592CDF9F6CA6F4C709AC06B7448D42BB5FE,
@@ -58,43 +56,39 @@ static Il2CppMethodPointer s_methodPointers[24] =
 	SpeedController_ValueChangeCheck_mACF07D6425C58320836C11CA9F46670103A01ABB,
 	SpeedController__ctor_m26FD20BEE03745E911286CD48EEB09422D533AA4,
 	SpeedController_U3CStartU3Eb__1_0_m49B23E63136AA6172A0DF9DDD353B84CB727622D,
-	SpinFree_Update_m3301EFBD1B7DC6F06D34CCA773AFE993A7848A65,
-	SpinFree__ctor_m2D12C8C18B2F2680D0C70305FD030A1A68E0CBA5,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[24] = 
+static const int32_t s_InvokerIndices[22] = 
 {
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	4864,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	6079,
-	4864,
-	6079,
-	6079,
-	9415,
-	6079,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	4863,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	6078,
+	4863,
+	9414,
+	6078,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	24,
+	22,
 	s_methodPointers,
 	0,
 	NULL,

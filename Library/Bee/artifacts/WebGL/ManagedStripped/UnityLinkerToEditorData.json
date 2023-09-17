@@ -36,7 +36,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -50,7 +50,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -87,7 +87,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -107,7 +107,7 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -127,7 +127,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -141,7 +141,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -167,7 +167,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -175,7 +175,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -195,7 +195,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -209,7 +209,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -217,7 +217,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -225,7 +225,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -233,7 +233,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -241,7 +241,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -255,7 +255,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -263,7 +263,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -295,7 +295,7 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -309,7 +309,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -341,7 +341,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -367,7 +367,7 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -640,7 +640,7 @@
           {
             "name": "Collider",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -654,7 +654,7 @@
           {
             "name": "Rigidbody",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -662,7 +662,7 @@
           {
             "name": "SphereCollider",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -885,7 +885,7 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -928,7 +928,7 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -942,7 +942,7 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Scenes/New Scene/New Scene.unity"
+              "Assets/Scenes/Earth/New Scene.unity"
             ],
             "dependencyType": 0,
             "icon": null
