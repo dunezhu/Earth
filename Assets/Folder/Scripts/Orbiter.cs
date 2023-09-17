@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Orbiter : MonoBehaviour
 {
-    readonly float G = .00066743f;
+    readonly float G = .000066743f;
     GameObject[] celestials;
 
     // Start is called before the first frame update
