@@ -57,7 +57,9 @@ ScriptsOnlyBuild:
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.ShaderGraph.Editor.dll:
+    - UnityEditor.Graphing.GraphObject
     - UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow
+    - UnityEditor.ShaderGraph.ShaderGraphProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -267,47 +269,47 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7522}
     - Class: 114
-      Script: {instanceID: 7928}
+      Script: {instanceID: 7926}
     - Class: 114
-      Script: {instanceID: 8316}
+      Script: {instanceID: 8314}
     - Class: 114
-      Script: {instanceID: 8432}
+      Script: {instanceID: 8430}
     - Class: 114
-      Script: {instanceID: 8438}
+      Script: {instanceID: 8436}
     - Class: 114
-      Script: {instanceID: 8608}
+      Script: {instanceID: 8606}
     - Class: 114
-      Script: {instanceID: 8662}
+      Script: {instanceID: 8660}
     - Class: 114
-      Script: {instanceID: 8728}
+      Script: {instanceID: 8726}
     - Class: 114
-      Script: {instanceID: 8832}
+      Script: {instanceID: 8830}
     - Class: 114
-      Script: {instanceID: 8848}
+      Script: {instanceID: 8846}
     - Class: 114
-      Script: {instanceID: 8994}
+      Script: {instanceID: 8992}
     - Class: 114
-      Script: {instanceID: 9064}
+      Script: {instanceID: 9062}
     - Class: 114
-      Script: {instanceID: 9190}
+      Script: {instanceID: 9188}
     - Class: 114
-      Script: {instanceID: 9206}
+      Script: {instanceID: 9204}
     - Class: 114
-      Script: {instanceID: 9362}
+      Script: {instanceID: 9360}
     - Class: 114
-      Script: {instanceID: 9424}
+      Script: {instanceID: 9422}
     - Class: 114
-      Script: {instanceID: 9464}
+      Script: {instanceID: 9462}
     - Class: 114
-      Script: {instanceID: 9902}
+      Script: {instanceID: 9900}
     - Class: 114
-      Script: {instanceID: 10332}
+      Script: {instanceID: 10330}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10836}
     - Class: 114
-      Script: {instanceID: 11064}
+      Script: {instanceID: 11062}
     - Class: 114
-      Script: {instanceID: 11242}
+      Script: {instanceID: 11240}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128

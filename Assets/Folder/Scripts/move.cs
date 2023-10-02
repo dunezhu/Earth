@@ -27,11 +27,10 @@ public class move : MonoBehaviour
 
     void Turn()
     {
-        float yaw = turnSpeed * Time.deltaTime * Input.GetAxis("Horizontal");
         float pitch = turnSpeed * Time.deltaTime * Input.GetAxis("Pitch");
-        float roll = turnSpeed * Time.deltaTime * Input.GetAxis("Roll");
+        float yaw = turnSpeed * Time.deltaTime * Input.GetAxis("Yaw");
 
-        myT.Rotate(-pitch, yaw, -roll);
+        myT.Rotate(-pitch, yaw, 0);
     }
 
     void Thrust()
